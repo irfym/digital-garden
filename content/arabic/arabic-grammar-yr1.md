@@ -4,19 +4,6 @@ title: Arabic grammar, year 1
 
 This is a summary of the basic grammatical concepts covered in year 1 of my studies. The curriculum loosely followed Haywood and Nahmad's structure, for the first 11 or so chapters.
 
-## Table of contents
-1. [Definite and indefinite](#definite){: .internal-link}
-2. [Noun and noun sentences](#noun_sentences){: .internal-link}
-3. [Masculine and feminine](#masculine){: .internal-link}
-4. [Case endings](#case_endings){: .internal-link}
-5. [Possession](#possession){: .internal-link}
-6. [Plurals](#plurals){: .internal-link}
-7. [Verb sentences](#verb_sentences){: .internal-link}
-8. [Attached pronouns](#attached_pronouns){: .internal-link}
-9. [Demonstrative pronouns](#demonstrative_pronouns){: .internal-link}
-10. [Superlative, comparative and descriptives](#superlatives){: .internal-link}
-
-
 ## Definite and indefinite <a name="definite"></a>
 
 - ال is used to indicate the definite article in arabic. In adding the ال you drop the tanwin that you normally have at the end of an indefinite word. You can't have them both together!

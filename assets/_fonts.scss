@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap');
 
 * {
-    font-family: 'Scheherazade New', serif;
+    font-family: 'Scheherazade New', serif, linkMacSystemFont, Segoe UI, Helvetica, Arial,
+  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  
+    font-size: 1.5;
 
     @if font-family == 'Scheherazade New' {
-        font-size: 10em;
+        font-size: 3em;
     }
 }

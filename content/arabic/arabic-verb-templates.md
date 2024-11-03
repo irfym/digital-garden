@@ -4,19 +4,6 @@ title: Arabic verb templates
 
 A short overview of the different verb templates covered in my arabic classes (excluding verb templates 11 and above, as they're not so common).  Aside from the below, [this](https://corpus.quran.com/documentation/verbforms.jsp) looks like a good summary of the different verb forms, and covers more possible meaning patterns than are in my notes below.
 
-## Table of contents
-1. [Summary table](#summary_table){: .internal-link}
-2. [Template 1](#template_1){: .internal-link}
-3. [Template 2](#template_2){: .internal-link}
-4. [Template 3](#template_3){: .internal-link}
-5. [Template 4](#template_4){: .internal-link}
-6. [Template 5](#template_5){: .internal-link}
-7. [Template 6](#template_6){: .internal-link}
-8. [Template 7](#template_7){: .internal-link}
-9. [Template 8](#template_8){: .internal-link}
-10. [Template 9](#template_9){: .internal-link}
-11. [Template 10](#template_10){: .internal-link}
-
 ## Summary table <a name="summary_table"></a>
 
 | Template | مصدر           | Past, present  (active)    | Past, present (passive)     |

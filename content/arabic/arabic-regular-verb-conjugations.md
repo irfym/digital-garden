@@ -2,10 +2,6 @@
 title: Arabic regular verb conjugations
 ---
 
-## Table of contents
-1. [Perfect tense](#perfect){: .internal-link}
-2. [Imperfect tense](#imperfect){: .internal-link}
-
 ## Perfect tense (فعل ماضى) <a name="perfect"></a>
 
 | Form   | Subject      | فاعل  |
