@@ -45,16 +45,6 @@ Template 1 can be found in 6 forms:
 | V    | حَسِبَ , يَحْسِبُ      |                                                               |
 | VI   | كَرُمَ , يَكْرُمُ      | Often used for characteristics. Has a passive meaning pattern |
 
-
-| Form | Past, present  (active)  | Notes |
-|----------|----------------------------:|
-| I | خَعَلَ , يَجْعَلُ | Throat letters on the ع kalimah *always* take this form |
-| II | نَزَلَ , يَنْزِلُ |  |
-| III | كَفَرَ , يَكْفُرُ |  |
-| IV  | سَمِعَ , يَسْمَعُ |  |
-| V | حَسِبَ , يَحْسِبُ |  |
-| VI | كَرُمَ , يَكْرُمُ | Often used for characteristics. Has a passive meaning pattern |
-
 Common verbs in Template 1:
 
 - خَعَلَ (a), he made, put

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on irfys digital garden</title>
+    <link>http://localhost:1313/book/</link>
+    <description>Recent content in Books on irfys digital garden</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Flat Place</title>
+      <link>http://localhost:1313/book/books_a_flat_place/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/book/books_a_flat_place/</guid>
+      <description>&lt;p&gt;Read in July 2024. Storygraph link &#xA;  &lt;a href=&#34;https://app.thestorygraph.com/books/307300fe-ebb8-481f-9652-4a2b1dc284e0&#34;&gt;here&lt;/a&gt;, and written by Noreen Masud. I got this as part of the non-fiction book subscription from &#xA;  &lt;a href=&#34;https://libreria.io/&#34;&gt;Libreria&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;There are many things that I could say about this book, many of them perhaps not suitable to be published to the internet. I don&amp;rsquo;t really how to feel after reading this, but this is the only recent book in memory that has stirred up such strong emotions, and resonant emotions that I recognise intimately.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
