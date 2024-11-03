@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'irfy\'s digital garden'
+title = "irfy\'s digital garden"
 theme = 'hugo-book'
 
 # (Optional) Set Google Analytics if you use it to track your website.
