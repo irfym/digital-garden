@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap');
+
+* {
+    font-family: 'Scheherazade New', serif;
+
+    @if font-family == 'Scheherazade New' {
+        font-size: 10em;
+    }
+}
