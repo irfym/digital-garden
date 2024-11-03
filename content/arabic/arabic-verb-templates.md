@@ -36,6 +36,16 @@ A short overview of the different verb templates covered in my arabic classes (e
 
 Template 1 can be found in 6 forms:
 
+| Form | Past, present (active) | Notes                                                         |
+| ---- | ---------------------- | ------------------------------------------------------------- |
+| I    | خَعَلَ , يَجْعَلُ      | Throat letters on the ع kalimah _always_ take this form       |
+| II   | نَزَلَ , يَنْزِلُ      |                                                               |
+| III  | كَفَرَ , يَكْفُرُ      |                                                               |
+| IV   | سَمِعَ , يَسْمَعُ      |                                                               |
+| V    | حَسِبَ , يَحْسِبُ      |                                                               |
+| VI   | كَرُمَ , يَكْرُمُ      | Often used for characteristics. Has a passive meaning pattern |
+
+
 | Form | Past, present  (active)  | Notes |
 |----------|----------------------------:|
 | I | خَعَلَ , يَجْعَلُ | Throat letters on the ع kalimah *always* take this form |
